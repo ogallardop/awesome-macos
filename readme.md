@@ -194,6 +194,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon]
 - [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. ![Open Source][oss]
 - [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
+- [Flycut](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987) - Clipboard manager for macOS ![Open Source][oss]
 
 ### Cloud Storage
 
